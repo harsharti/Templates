@@ -1,0 +1,3 @@
+i store all old , buged , error templates file in this directorie
+
+so that this file is not useful for you
